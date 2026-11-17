@@ -4,6 +4,12 @@ It's not a universal HACS integration; it's my highly customized integration tai
 
 Again, I haven't created a complete HACS integration, but rather a "package" that can be used as a template or modified to suit individual needs, importing from the HA configuration file where the package is located
 
+See 
+https://www.reddit.com/r/FlashForge/comments/1r6e0gh/my_ha_control_panel_v20_with_filament_storage/
+and
+https://old.reddit.com/r/FlashForge/comments/1xynvij/internal_camera_settings_and_official_support_for/
+for discussion & comments
+
 <code>
 homeassistant:
   packages: !include_dir_named packages
